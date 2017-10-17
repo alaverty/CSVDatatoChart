@@ -1,0 +1,6 @@
+data/
+.Python
+bin/
+include/
+lib/
+CSVData.csv
